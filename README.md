@@ -1,0 +1,1 @@
+# Găsirea celui mai mare divizor comun (GCD)
